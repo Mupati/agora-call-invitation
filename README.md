@@ -1,4 +1,4 @@
-# A Flask Starter Application with Login and Registration
+# Video Call Invitation with Agora RTM and RTC SDKs in Flask
 
 
 ## About
@@ -14,7 +14,7 @@ I created this to help users to follow some technical articles I've written on:<
 
 1. Clone or download the repository
    ```bash
-   git clone git@github.com:Mupati/agora-flask-starter.git
+   git clone git@github.com:Mupati/agora-call-invitation.git
    ```
 2. Create your `.flaskenv` file and update your variables
    ```bash
